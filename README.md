@@ -1,5 +1,5 @@
-# My-first-cafe-website
-My website is basically a website containing every single information
+# cafe-website
+
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
